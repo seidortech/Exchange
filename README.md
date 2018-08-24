@@ -1,4 +1,4 @@
-#  Exchange
+#  Exchange - Modify exchange email addresses based on Paul Cunningham script
 <#
 
  This pull of scripts are based on  Paul Cunningham scripts, who build a very good code, capable to do some simulation before make changes on production environment and save the change into a log file, i just added some modifications.
